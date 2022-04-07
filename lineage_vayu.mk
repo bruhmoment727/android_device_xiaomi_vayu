@@ -14,7 +14,7 @@ $(call inherit-product, device/xiaomi/vayu/device.mk)
 # Inherit common ArrowOS configurations
 $(call inherit-product, vendor/lineage/config/common.mk)
 
-PRODUCT_NAME := alineage_vayu
+PRODUCT_NAME := lineage_vayu
 PRODUCT_DEVICE := vayu
 PRODUCT_BRAND := POCO
 PRODUCT_MODEL := Poco X3 Pro
